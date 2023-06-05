@@ -3,7 +3,7 @@ ABOUT ME
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Your Name - Personal Website</title>
+    <title>Pingping JIA - Personal Website</title>
   </head>
   
   <body>
